@@ -1,0 +1,7 @@
+domain: socp.io
+repo: github.com/gsakun/k8sapp
+resources:
+- group: apps
+  kind: Application
+  version: v1
+version: "2"
